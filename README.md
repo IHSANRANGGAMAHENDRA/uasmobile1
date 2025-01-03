@@ -13,6 +13,8 @@ Aplikasi pilih kodam yang sedang tren saat ituh,saya membuat aplikasi ini dituju
 -  Play screen
 ![![Screenshot 2024-11-15 170247](https://github.com/user-attachments/assets/e8da65aa-5b06-4c85-8a44-654521b31775)
 (akan segera diupdate secara berkala)
+-   lOBBY 
+![Screenshot 2025-01-03 193149](https://github.com/user-attachments/assets/73b67fa2-40c9-4721-8ee4-f21aaca42dd1)
 
 # Story-Board
 -  ini adalah bagaimana urutan aplikasi berjalan 
