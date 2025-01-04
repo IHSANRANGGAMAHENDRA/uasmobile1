@@ -6,7 +6,7 @@
 | *Mata Kuliah*    |         Pemrograman Web 1         |
 | *Dosen Pengampu* |   Donny Maulana, S.Kom., M.M.S.I. |
 
-## Project DeKodam (Layout not Finish)
+## Project App Sepatu Puma(Layout not Finish)
 # **App Sepatu Puma**
 Aplikasi pilih kodam yang sedang tren saat ituh,saya membuat aplikasi ini ditujukan hanya untuk kesenangan,Didalamnya ada berbagai kodam yang bisa dipilih dan Berbagai macam perbedaan kekuatan dalam masing-masing kodam tersebut.
 
